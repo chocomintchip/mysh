@@ -1,0 +1,16 @@
+[user]
+    name = Sunny Chang
+    email = sunny@getneed.com
+    username = chocomintchip
+
+[core]
+    editor = vim
+
+[web]
+    browser = google-chrome
+
+[init]
+    defaultBranch = main
+
+[help]
+    autocorrect = 10 
