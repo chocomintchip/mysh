@@ -1,4 +1,2 @@
 # Mysh
 
-Hello
-
