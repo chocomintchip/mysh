@@ -14,3 +14,8 @@
 
 [help]
     autocorrect = 10 
+
+[alias]                                                             
+    br = branch
+    co = checkout
+    supdate = submodule update --remote --merge
