@@ -13,3 +13,8 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 # Install Starship
 curl -sS https://starship.rs/install.sh | sh
 
+# Install configs
+cp .gitconfig ~/
+cp .vimrc ~/
+cp .zshrc ~/
+
